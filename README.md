@@ -2,7 +2,7 @@
 
 ![InAppChat Logo](https://github.com/ShadowArcanist/ShadowIAC/assets/106978117/6d9f048b-ae38-4c74-afbd-56e82accf4b8)
 
-In-App Chat helps teams leverage bots and skills from various platforms, allowing for dynamic interactions within a single chat interface. 
+In-App Chat helps teams to leverage bots and skills from various platforms, allowing for dynamic interactions within a single chat interface. 
 > Our flexible [Chat API](https://inappchat.io/chatsdks) and advanced messaging SDKs are designed to help you build communication apps quickly and cost-effectively.
 
 ## Team Behind In-App Chat
