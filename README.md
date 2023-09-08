@@ -19,6 +19,6 @@ Join our Discord server at [In-AppChat.io/Discord](https://discord.com/invite/5k
 
 https://github.com/ShadowArcanist/ShadowIAC/assets/106978117/51cc7d82-bf66-4a09-9afd-cee5de7cfa22
 
-## Connect with Us
+## 👋 Connect with Us
 
-Send us a "Hi" on Twitter: [@InAppChat](https://twitter.com/InAppChat)
+Stop by and say 'hello' on [Twitter](https://twitter.com/InAppChat) or [LinkedIn](https://www.linkedin.com/company/rip-bull-networks-inc/)
